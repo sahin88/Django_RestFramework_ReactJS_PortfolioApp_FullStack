@@ -1,0 +1,12 @@
+export const LOGIN_SUCCESS="LOGIN_SUCCESS";
+export const LOGIN_FAIL="LOGIN_FAIL";
+export const USER_LOADED_SUCCESSS="USER_LOADED_SUCCESSS";
+export const USER_LOADED_FAIL="USER_LOADED_FAIL";   
+export default {
+  
+    LOGIN_SUCCESS,
+    LOGIN_FAIL,
+    USER_LOADED_SUCCESSS,
+    USER_LOADED_FAIL
+    
+}
