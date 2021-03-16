@@ -11,7 +11,7 @@
   -  User registration, logging
   -  Custom User Model
 
-## Uml Diagramm
+## Entity Relationship Diagram
 ![alt text](https://github.com/sahin88/Django_RestFramework_ReactJS_PortfolioApp_FullStack/blob/main/portfolioapp.png)
 
 
